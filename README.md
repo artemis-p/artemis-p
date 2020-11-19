@@ -15,7 +15,7 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=artemis-p&show_icons=true&theme=jolly&count_private=true)]() <br>
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=artemis-p&layout=compact&langs_count=5&theme=jolly)]()
 
-## 📫 Contact me:
+## Contact me:
 [![icons8-linkedin-circled-64](https://user-images.githubusercontent.com/54374660/99702587-e2dfb880-2a8d-11eb-8ccb-d6807ecf99ab.png)][1]
 [![icons8-email-sign-64](https://user-images.githubusercontent.com/54374660/99703925-9a28ff00-2a8f-11eb-8b1a-132e55f4b2e6.png)][2]
 
