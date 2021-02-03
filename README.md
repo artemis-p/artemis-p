@@ -5,8 +5,8 @@
 -->
 
 - 🎓 **I graduated from:** _Makers Academy on May 2020_
-- 🔭 **I’m currently working on:** _A new Battleship game in JavaScript_
-- 🌱 **I’m currently learning:** _Python_
+- 🔭 **I’m currently working on:** _A new portfolio page_
+- 🌱 **I’m currently learning:** _Javascript and web design foundations_
 - 💬 **Ask me about:** _My journey into coding_ 
 - ❤  **I love:** _Frontend development and accessibility_
 - 😄 **Pronouns:** _She/Her_ 
